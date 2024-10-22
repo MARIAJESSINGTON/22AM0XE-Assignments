@@ -68,12 +68,13 @@
 ***
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+>  ![Screenshot 2024-10-22 194053](https://github.com/user-attachments/assets/608a7b65-6112-4d43-a02a-c45650f6711c)
+
 
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+> ![Screenshot 2024-10-20 115143](https://github.com/user-attachments/assets/e5bb65bc-f5a5-4ec0-bb5d-1c91708840bf)
 
 ***
 
