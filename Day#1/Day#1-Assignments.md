@@ -44,6 +44,11 @@
 > - Write Python code to print "Hello, World!" in the notebook.
 > - Import the NumPy library and create a 2x2 matrix, then print it.
 > - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+> - ![Screenshot 2024-10-22 183730](https://github.com/user-attachments/assets/0aab6c4d-3542-4508-bc2d-a9e0dade3de8)
+![Screenshot 2024-10-22 183918](https://github.com/user-attachments/assets/70a57654-595e-4043-acd5-d4e0aa2ad0dc)
+![Screenshot 2024-10-22 183946](https://github.com/user-attachments/assets/3e70f2b6-4e2b-46b3-8c22-7c8e4bc52a22)
+![Screenshot 2024-10-22 184026](https://github.com/user-attachments/assets/5b7bab32-dc7a-4daf-b7a5-3c14e32c76f3)
+https://colab.research.google.com/drive/1JWltFxgBdHgHc3uPhNwBf9qInQhfTB0Y#scrollTo=kDBYcuXOWWmR
 
 ***
 
