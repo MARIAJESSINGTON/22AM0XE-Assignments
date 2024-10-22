@@ -60,10 +60,15 @@ https://colab.research.google.com/drive/1JWltFxgBdHgHc3uPhNwBf9qInQhfTB0Y#scroll
 
   - Details:A leading subscription-based streaming service that offers a wide variety of TV shows, movies, and documentaries.
  
-  - Twitch
-    - Logo: ![download (1)](https://github.com/user-attachments/assets/99d1ea33-494a-49ad-ba7d-56d8c4bac34d)
+  - Office 365
+    - Logo:     ![download (2)](https://github.com/user-attachments/assets/f06eba93-f2eb-442a-8c55-98f052e1f444)
+
    
-  - Details: A live streaming platform primarily focused on video game streaming, but also includes music, creative content, and other forms of entertainment.
+  - Details: A subscription service that provides users with access to Microsoft Office applications and cloud services like OneDrive and Microsoft Teams.
+ 
+- Logo:    ![download (3)](https://github.com/user-attachments/assets/69283efd-f9b5-46bd-9a49-cfe021eea1d6)
+
+  - Details: A collaboration hub that connects teams through messaging, file sharing, and integrations, often hosted on IBM Cloud for enterprise solutions.
 
 
 > Add your answer here!
