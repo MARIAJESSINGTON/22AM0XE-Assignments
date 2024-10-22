@@ -57,7 +57,7 @@ https://colab.research.google.com/drive/1JWltFxgBdHgHc3uPhNwBf9qInQhfTB0Y#scroll
 - Amazon Prime Video
   - Logo: ![image](https://github.com/user-attachments/assets/3ffc5269-1ec5-48df-a2ae-8b8fb8ddf51b)
 
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
+  - Details:A leading subscription-based streaming service that offers a wide variety of TV shows, movies, and documentaries.
 
 > Add your answer here!
 
