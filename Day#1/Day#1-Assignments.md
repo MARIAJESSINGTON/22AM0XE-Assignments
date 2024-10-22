@@ -61,7 +61,7 @@ https://colab.research.google.com/drive/1JWltFxgBdHgHc3uPhNwBf9qInQhfTB0Y#scroll
   - Details:A leading subscription-based streaming service that offers a wide variety of TV shows, movies, and documentaries.
  
   - Twitch
-    - Logo:![download (1)](https://github.com/user-attachments/assets/99d1ea33-494a-49ad-ba7d-56d8c4bac34d)
+    - Logo: ![download (1)](https://github.com/user-attachments/assets/99d1ea33-494a-49ad-ba7d-56d8c4bac34d)
    
   - Details: A live streaming platform primarily focused on video game streaming, but also includes music, creative content, and other forms of entertainment.
 
