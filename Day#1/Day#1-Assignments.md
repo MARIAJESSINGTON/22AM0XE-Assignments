@@ -17,8 +17,10 @@
 ***
 
 ### Day 1 Assignments - Answers and Screenshots
+![Screenshot 2024-10-22 162242](https://github.com/user-attachments/assets/dce36fab-a945-4ed8-b548-0dbb8c6e78e5)
+![Screenshot 2024-10-22 162300](https://github.com/user-attachments/assets/9e2bc449-270e-4c16-ac87-f194581a14b8)
 
-> [!WARNING]
+
 > Pls submit the correct screenshots
 
 > [!CAUTION]
