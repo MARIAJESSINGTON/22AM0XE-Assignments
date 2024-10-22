@@ -71,8 +71,6 @@ https://colab.research.google.com/drive/1JWltFxgBdHgHc3uPhNwBf9qInQhfTB0Y#scroll
   - Details: A collaboration hub that connects teams through messaging, file sharing, and integrations, often hosted on IBM Cloud for enterprise solutions.
 
 
-> Add your answer here!
-
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
